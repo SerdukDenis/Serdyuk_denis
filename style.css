@@ -1,0 +1,51 @@
+.imgg{
+    width: 350px;
+}
+.gg{
+    display: flex;
+    justify-content: center;
+}
+.ggg{
+    display: flex;
+    justify-content: center;
+}
+nav{
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+a{
+    text-decoration: none;
+}
+footer{
+    text-align: center;
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+.top_menu li{
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 50px;
+}
+header{
+    display: flex;
+    justify-content: center;
+}
+.aa:hover{
+    color: black; /* Меняем цвет текста */
+    -webkit-text-shadow: 2px 2px 2px #000;
+    -moz-text-shadow: 2px 2px 2px #000;
+        text-shadow: 2px 2px 2px #000;
+}
+.pp:hover{
+    color: black; /* Меняем цвет текста */
+    -webkit-text-shadow: 2px 2px 2px #000;
+    -moz-text-shadow: 2px 2px 2px #000;
+        text-shadow: 2px 2px 2px #000;
+}
+.imgg {
+    transition: 1s; /* Время эффекта */
+   }
+   .imgg:hover {
+    transform: scale(0.9); /* Увеличиваем масштаб */
+   }
+body{
+    background-image: url(/img/1632557602_115504-noch-tokio_vurdalak-vymyslennyj_personaz-krasnyj_cvet-graficeskij_dizajn-1920x1080\ \(1\).webp);
+}
